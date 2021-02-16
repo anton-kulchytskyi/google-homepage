@@ -1,0 +1,1 @@
+This is my Google-homepage clone made while studing at "The Odin Project".
