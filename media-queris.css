@@ -1,0 +1,19 @@
+@media screen and (max-width: 769px) {
+	.main-search {
+		width: 90%;
+	}
+}
+@media screen and (max-width: 426px) {
+	.search p {
+		font-size: 12px;
+		margin: 5px;
+		padding: 5px 10px;
+	}
+	footer a {
+		padding: 5px;
+	}
+	footer {
+		flex-direction: column;
+		padding: 10px 0;
+	}
+}
